@@ -222,10 +222,10 @@ npm run secret:resend
 *AI-Native Full Stack Developer & 4th-Year AIML Student*
 
 - **Live Portfolio:** [ambika-portfolio.pages.dev](https://ambika-portfolio.pages.dev)
-- **GitHub:** [@AmbikaS36](https://github.com/AmbikaS36)
-- **LinkedIn:** [ambika-s-173698390](https://www.linkedin.com/in/ambika-s-173698390)
-- **WhatsApp:** [+91 93453 80487](https://wa.me/919345380487?text=Hi%20Ambika,%20saw%20your%20portfolio%20and%20wanted%20to%20connect!)
-- **Direct Email:** [itsambika036@gmail.com](mailto:itsambika036@gmail.com)
+- **GitHub:** [@ambikalakshmi999-rgb](https://github.com/ambikalakshmi999-rgb)
+- **LinkedIn:** [ambika lakshmi katta](https://www.linkedin.com/in/ambika-lakshmi-katta-697563351 )
+- **WhatsApp:** [+91 93925 10846](https://wa.me/919392510846?text=Hi%20Ambika,%20saw%20your%20portfolio%20and%20wanted%20to%20connect!)
+- **Direct Email:** [ambikalakshmi999@gmail.com](mailto:itsambikalakshmi999@gmail.com)
 
 ---
 
