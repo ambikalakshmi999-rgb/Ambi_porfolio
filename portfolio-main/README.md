@@ -9,41 +9,10 @@
 
 A high-performance, creative agency-grade developer portfolio architected with **React 19**, custom **WebGL GLSL shaders**, **GSAP ScrollTrigger**, and smooth momentum physics. Deployed globally to **Cloudflare Workers** with edge-native serverless microservices.
 
-**Live Production URL:** [https://ambika-portfolio.pages.dev](https://ambika-portfolio.pages.dev)
+**Live Production URL:** [https://portfolio.ambikaportfolio.workers.dev/](https://portfolio.ambikaportfolio.workers.dev/)
 
 ---
 
-## 🌟 Visual Tour & Interface Highlights
-
-### 1. Raymarched Event Horizon & 3D Wireframe Globe
-A custom GPU raymarched black hole accretion disk with relativistic Doppler beaming, dynamic inclination mouse parallax, and an interactive 3D Orbit exploration mode.
-![3D Event Horizon Hero](public/screenshots/01-hero-accels.png)
-
-### 2. Engineering Philosophy & Real-Time Telemetry Deck
-Overview of decoupled architectural design principles paired with a verified telemetry command deck for GitHub repositories, LinkedIn profiles, and live sprint activities.
-![About & Engineering Telemetry](public/screenshots/02-engineering-telemetry.png)
-
-### 3. Engineering Journey & Interactive 2D Canvas Simulations
-A four-stage evolution roadmap featuring real-time interactive HTML5 Canvas visualizers demonstrating DOM hierarchy, WebSocket packet transmission, token streaming, and ATS parsing algorithms.
-![Engineering Journey Roadmap](public/screenshots/03-evolution-roadmap.png)
-
-### 4. Deep-Dive Case Studies & Feature Showcase
-Editorial project presentations highlighting problem statements, algorithmic solutions, key capabilities, and direct links to live edge deployments.
-![Case Study Overview & Gallery](public/screenshots/04-case-study-overview.png)
-
-### 5. Decoupled Distributed Architecture Flows
-Interactive multi-tier architecture diagrams illustrating client presentation layers, edge gateways, authentication boundaries (OAuth 2.0 PKCE), and backend microservices.
-![Distributed Architecture Flow](public/screenshots/05-distributed-architecture.png)
-
-### 6. 360° Cylindrical Capabilities Deck
-A trigonometric 3D orbital cylinder displaying core engineering competencies, featuring continuous auto-rotation, Gaussian depth-blur falloff, and touch/wheel drag navigation.
-![360 Degree Skills Cylinder](public/screenshots/06-skills-360-deck.png)
-
-### 7. Cosmic Monolith Message Beacon & Flight Sequencer
-A glassmorphic transmission transponder equipped with dynamic input signal integrity scoring and an edge-delivered rocket launch sequence connecting to the Resend API.
-![Cosmic Monolith Transponder](public/screenshots/07-contact-monolith.png)
-
----
 
 ## ⚡ Core Engineering Capabilities & Innovations
 
@@ -221,7 +190,7 @@ npm run secret:resend
 **Ambika Lakshmi Katta**  
 *AI-Native Full Stack Developer & 4th-Year Cyber Security Student*
 
-- **Live Portfolio:** [ambika-portfolio.pages.dev](https://ambika-portfolio.pages.dev)
+- **Live Portfolio:** [https://portfolio.ambikaportfolio.workers.dev/](https://portfolio.ambikaportfolio.workers.dev/)
 - **GitHub:** [@ambikalakshmi999-rgb](https://github.com/ambikalakshmi999-rgb)
 - **LinkedIn:** [ambika lakshmi katta](https://www.linkedin.com/in/ambika-lakshmi-katta-697563351 )
 - **WhatsApp:** [+91 93925 10846](https://wa.me/919392510846?text=Hi%20Ambika,%20saw%20your%20portfolio%20and%20wanted%20to%20connect!)
