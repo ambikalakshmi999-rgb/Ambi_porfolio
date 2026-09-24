@@ -216,10 +216,10 @@ npm run secret:resend
 
 ---
 
-## 👨‍💻 Author & Engineering Channels
+## 👨‍💻 Author
 
-**Ambika S**  
-*AI-Native Full Stack Developer & 4th-Year AIML Student*
+**Ambika Lakshmi Katta**  
+*AI-Native Full Stack Developer & 4th-Year Cyber Security Student*
 
 - **Live Portfolio:** [ambika-portfolio.pages.dev](https://ambika-portfolio.pages.dev)
 - **GitHub:** [@ambikalakshmi999-rgb](https://github.com/ambikalakshmi999-rgb)
